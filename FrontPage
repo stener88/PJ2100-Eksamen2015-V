@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="../CSS/style.css">
+</head>
+<body>
+	<div id="header">
+		<img id="overskrift" src="../bilder/getARoomFont.jpg">
+		<div id="logo"><p>GET A ROOM LOGO</p></div>
+	</div>
+	<div id="footer">
+		<div class="fKontaktTekstbox">
+			<p>	CK 32</p>
+			<p>	Christian Kroghs gate 32, 0186 Oslo </p> 
+			<p>	telefon: 
+				+47 22 05 75 50 </p>
+			<p>	e-post: post@westerdals.no	</p>
+		</div>
+		<!--       Bildet er godkjent av Eivind Brevik              ¨-->
+		<img id="westerdalsLogo" src="../bilder/westerdalsLogo2.png">
+		<div id="bakgrunnsWrap">
+		<img id="kalenderBildet" src="../bilder/kalender2.jpg">
+		<div class="menuKnapper">
+			<div class="ahrefMove"><a href="../html/getARoom.html">GET A ROOM</a></div>
+		</div>
+		<div class="menuKnapper">
+			<div class="ahrefMove"><a href="../html/romOversikt.html">ROMOVERSIKT</a></div>
+		</div>
+		<!--<div class="menuKnapper">
+			<div class="ahrefMove"><a href="../html/romOversikt.html">SUPPORT</a></div>
+		</div>-->
+	</div>
+	</div>
+</body>
+</html>
